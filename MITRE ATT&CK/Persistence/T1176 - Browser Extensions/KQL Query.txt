@@ -1,0 +1,14 @@
+let KnownExtensions = externaldata(ExtensionName:string, ExtensionId:string)
+[
+h@"1clickVPN - Free VPN for Chrome"
+]
+with(format="csv");
+
+DeviceTvmBrowserExtensions
+| join kind=leftanti (KnownExtensions | project ExtensionId = tolower(ExtensionId), ExtensionName) on ExtensionId
+| join DeviceInfo on DeviceId
+| where IsActivated == "true"
+| where ExtensionRisk in ("High", "Critical")
+| where MachineGroup !in ("All Windows Workstations")
+| summarize by ExtensionId, ExtensionName, ExtensionRisk, DeviceName, MachineGroup, BrowserName, ExtensionDescription
+| sort by ExtensionRisk, ExtensionName;
