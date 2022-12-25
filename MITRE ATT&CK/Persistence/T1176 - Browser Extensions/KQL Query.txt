@@ -1,4 +1,3 @@
-
 let AllowedExtensions = externaldata(ExtensionName:string, ExtensionId:string)
 [
 h@"https://raw.githubusercontent.com/Kilroy1337/usecases/main/MITRE%20ATT%26CK/Persistence/T1176%20-%20Browser%20Extensions/General%20browser%20extensions.csv",
