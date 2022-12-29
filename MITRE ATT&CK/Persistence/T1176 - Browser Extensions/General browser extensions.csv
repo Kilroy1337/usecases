@@ -1,6 +1,5 @@
 ExtensionName,ExtensionId
 "Google Chrome Extensions",
-1clickVPN - Free VPN for Chrome,fcfhplploccackoneaefokcmbjfbkenj
 "Adobe Acrobat: PDF edit,convert,sign tools",efaidnbmnnnibpcajpcglclefindmkaj
 Adblock for Chrome,onomjaelhagjjojbkcafidnepbfkpnee
 Adblock for Youtube,cmedhionkhpnakcndndgjdbohmhepckk
@@ -13,6 +12,7 @@ AdGuard AdBlocker (Beta),gfggjaccafhcbfogfkogggoepomehbjl
 BankID CryptoPlugin,pgfbdgicjmhenccemcijooffohcdanic
 Blue Prism 6.10.2 Browser Extension,bnkfnbanaddcalcbanfmlbeljhbhjmba
 Cisco Webex Extension,jlhmfgmfgeifomenelglieieghnjghma
+ColorPick Eyedropper,ohcpnigalekghcmgcdcenkpelffpdolg
 Crypto-Plugin,idfiabaafjemgcecklpgnebaebonghka
 Forcepoint Endpoint for Windows,afepblghhgmbjmpobllnaeaoclogcnii
 Forcepoint Endpoint for Windows,kmhcihjplpkdkhkofpcjakhljcepieok
@@ -23,9 +23,12 @@ Forcepoint Endpoint for Windows,phkecjjmchnmppjaajpccimceejnmmkf
 Forcepoint Endpoint for Windows,inobegeoidmipgdpnilkgedpddbicbco
 Forcepoint Endpoint for Windows,cbhcggdbakcncangomfjpncbenkffmcc
 Forcepoint Endpoint for Windows,habahgekleeppldmdelopijneofommdo
+Forcepoint Endpoint for Windows,iglgdcfiimfpecboklhgojpgnmeljdkb
 Google Docs Offline,ghbmnnjooekpmoecnnnilnnbdlolhkhi
+Google Hangouts,nckgahadagoaajjgafhacjanaoiihapd
 Google Translate,aapbdbdomjkkjkaonfhkkikfgjllcleb
 Grammarly: Grammar Checker and Writing App,kbfnbcaeplbcioakkpcpgfkobkghlhen
+GTM Sonar,iiihoahkpncaheicjfemhjkkfamcahcd
 HP Dynamic Audio,fkhppjmkbifibialnglmjegmgckmkdco
 HP Wolf Security Extension,gpmlagmcbcnjhkdjiofoenkfbaclgjkk
 HP Sure Click Secure Browsing,ialkgjcmgjhnbckmolibjoeeglgbaegf
@@ -33,14 +36,25 @@ Knoa UEM,dnldaacdhnkclbkaimbkgmbnhpnpdadp
 Microsoft Bing Search for Chrome,hkecabaloghleaicfhefejdijblljpco
 MSN + Bing for Chrome,jhikancdgcieieaapcjmbpjflikjgkpn
 MultiHighlighter,ocifbglmlbpgpbflnkfpclkmckoollbn
+OneTab,chphlpgkkbolifaimnlloiipkdnihall
 React Developer Tools,fmkadmapgofadopljbjfkapdkoienihi
+Recruiters' integration tool,ibfoabadoicmplbdpmchomcagkpmfama
+Ringostat Smart Phone,pmpdmpjichjpigklkhholiejpnhcjhkf
+SAML-tracer,mpdajninpobndbfcldcmbpnnbhibjmch
 Save to Google Drive,gmbmikajjgmnabiglmofipeabaddhgne
+Similarweb - Traffic Rank & Website Analysis,hoklmmgfnpapgjgcpechhaamimifchmp
+Shodan,jjalcfnidlmpjhdfepjhjbhnhkbgleap
 Skype Calling,blakpkgjpemejpbmfiglncklihnhjkij
+svg-grabber - get all the svg's from a site,ndakggdliegnegeclmfgodmgemdokdmg
 think-cell,ppcdkdcafnbklehdngbhmhpidandcjke
 "Translator uLanguage - translate,dictionary",mnlohknjofogcljbcknkakphddjpijak
+TurboHelper,gepbpempiboplaknlkgedlkfnnlafmdo
 uBlock Origin,cjpalhdlnbpafiamejdnhcphjbkeiagm
-Windows Accounts,ppnbnpeolgkicgegkbkbjmhlideopiji
+Wappalyzer - Technology profiler,gppongmhjkpfnbhagpmjfkannfbllamg
 WebSigner,lhelgailafdbgpkflhoifeebgohnnnpc
+WebSocket King Client,cbcbkhdmedgianpaifchdaddpnmgnknn
+Windows Accounts,ppnbnpeolgkicgegkbkbjmhlideopiji
+Xerox Device Connector,ojpcfkpecldaeaafcmclkmgabiohlbnl
 Ãëàç.ÒÂ - ñìîòðè ÒÂ îíëàéí,odnkdlljodaaoohicokdbbkplhemmkaf
 РњРѕРґСѓР»СЊ E-Staff РґР»СЏ Google Chrome v2,gdbckgdmdgdhiadmdkbghnhdiciikiil
 ²²Ò Êîðèñòóâà÷ ÖÑÊ-1. Á³áë. ï³äï. (web-ð.),jffafkigfgmjafhpkoibhfefeaebmccg
